@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1496739326 source:e:\workspace\数组\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+
+1496371577 e:\workspace\数组\test.c
+
